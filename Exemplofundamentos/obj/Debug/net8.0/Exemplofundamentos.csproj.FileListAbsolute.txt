@@ -1,0 +1,14 @@
+C:\Dio\Avanade\Exemplofundamentos\obj\Debug\net8.0\Exemplofundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dio\Avanade\Exemplofundamentos\obj\Debug\net8.0\Exemplofundamentos.AssemblyInfoInputs.cache
+C:\Dio\Avanade\Exemplofundamentos\obj\Debug\net8.0\Exemplofundamentos.AssemblyInfo.cs
+C:\Dio\Avanade\Exemplofundamentos\obj\Debug\net8.0\Exemplofundamentos.csproj.CoreCompileInputs.cache
+C:\Dio\Avanade\Exemplofundamentos\bin\Debug\net8.0\Exemplofundamentos.exe
+C:\Dio\Avanade\Exemplofundamentos\bin\Debug\net8.0\Exemplofundamentos.deps.json
+C:\Dio\Avanade\Exemplofundamentos\bin\Debug\net8.0\Exemplofundamentos.runtimeconfig.json
+C:\Dio\Avanade\Exemplofundamentos\bin\Debug\net8.0\Exemplofundamentos.dll
+C:\Dio\Avanade\Exemplofundamentos\bin\Debug\net8.0\Exemplofundamentos.pdb
+C:\Dio\Avanade\Exemplofundamentos\obj\Debug\net8.0\Exemplofundamentos.dll
+C:\Dio\Avanade\Exemplofundamentos\obj\Debug\net8.0\refint\Exemplofundamentos.dll
+C:\Dio\Avanade\Exemplofundamentos\obj\Debug\net8.0\Exemplofundamentos.pdb
+C:\Dio\Avanade\Exemplofundamentos\obj\Debug\net8.0\Exemplofundamentos.genruntimeconfig.cache
+C:\Dio\Avanade\Exemplofundamentos\obj\Debug\net8.0\ref\Exemplofundamentos.dll
