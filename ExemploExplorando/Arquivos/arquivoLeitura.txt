@@ -1,0 +1,2 @@
+Linha 1 de arquivo de leitura
+Linha 2 de arquivo de leitura - conteúdo tal tal
